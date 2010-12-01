@@ -1,0 +1,2 @@
+This is a very simple script I have written to build Emacs on Mac OS X from the bzr repo. See http://www.emacswiki.org/emacs/BzrForEmacsDevs for information on cloning the repo. I have commented (perhaps overcommented) the script to make it easy for people to reuse it. However, building on ther platforms is currently not handled at all. Perhaps people who fork this repo can do it, or I will add it later.
+
